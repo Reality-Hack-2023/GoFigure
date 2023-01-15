@@ -13,7 +13,7 @@ Our story is inspired by two books of fictions, [Flatland](https://en.wikipedia.
 
 1. <b>Content:</b> <br />
 We trace the journey of a character traveling across dimensions and experiencing self-discovery.<br />
-The audience/user will transform into a dot, to a line, to a plane, to a sphere, and pursue difficult questions in life: Where am I? Who am I? What do I want to be?<br />
+The audience/user will transform into a dot, to a line, to a plane, to a sphere, and pursue difficult questions in life: *Where am I? Who am I? What do I want to be?*<br />
 Combining animations and poetic sketches, we piece together the narrative in the format of a letter - a conversation with ourselves - and a self-reflective space we’d like to share with our audience.
 
 1. <b>Process:</b> <br />
