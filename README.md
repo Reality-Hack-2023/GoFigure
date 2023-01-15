@@ -2,6 +2,7 @@
 
 ### Team Go Figure
 ### Project Title: A WO(MAN) TURNING INTO A DOT
+A WO(MAN) TURNING INTO A DOT is a self-discovery experience through a journey across dimensions. It is an interactive short film made with Tik Tok effects.
 
 1. <b>Project Concept:</b> <br />
 If we think about Tik Tok as a *cultural product*, it transforms us into others and teleports us to different places through virtual space. Drawing from this characteristic of Tik Tok as a medium, we created a story about growth, self-reflection, and the meaning of life using the representation of the journey of a dot traveling across different dimensions. 
